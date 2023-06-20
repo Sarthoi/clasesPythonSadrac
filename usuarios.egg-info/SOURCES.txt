@@ -1,0 +1,7 @@
+setup.py
+modulo_1/__init__.py
+modulo_1/daouser.py
+usuarios.egg-info/PKG-INFO
+usuarios.egg-info/SOURCES.txt
+usuarios.egg-info/dependency_links.txt
+usuarios.egg-info/top_level.txt

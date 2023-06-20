@@ -1,0 +1,8 @@
+setup.py
+modulo_2/__init__.py
+modulo_2/carrito.py
+modulo_2/daoprod.py
+productos.egg-info/PKG-INFO
+productos.egg-info/SOURCES.txt
+productos.egg-info/dependency_links.txt
+productos.egg-info/top_level.txt
